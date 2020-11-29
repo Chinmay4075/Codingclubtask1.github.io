@@ -1,0 +1,128 @@
+/* Style the links inside the navigation bar */
+
+
+.topnav a {
+    float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 23px;
+  
+}
+.topnav-centered {float: none;
+position: absolute;
+top: 05%;
+left: 50%;
+transform: translate(-50%,-50%);}
+
+/*Buttons*/
+.button1 {border-radius: 30px;
+    font-size: 20px;
+    background-color: white;
+    padding: 14px 40px;
+    cursor: pointer;
+}
+.button2 {border-radius: 30px;
+font-size: 20px;
+background-color: black;
+color: white;
+padding: 14px 40px;
+cursor: pointer;}
+
+/*bottom page button*/
+
+.button3 {border-radius: 30px;
+font-size: 20px;
+background-color: cornflowerblue;
+color: white;
+padding: 14px 40px;
+cursor: pointer;
+}
+
+.button4 {border-radius: 30px;
+width: 100px;
+cursor: pointer;}
+
+
+
+.middle {text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.center {font-weight: bolder;
+     font-size: 70px;
+    text-align: center;}
+    
+    
+
+
+.invite {margin-left: 1000px;
+font-size: 70px;}
+.discord {margin-left: 1000px;
+font-size: 30px;}
+
+
+/*left paragraph*/
+.where {margin-left: 03%;
+font-size: 70px;
+font-family: Arial, Helvetica, sans-serif;}
+.grab {margin-left: 03%;
+font-size: 30px
+;
+font-family: Arial, Helvetica, sans-serif;}
+
+/* Right paragraph-second last one*/
+.from {margin-left: 1000px;
+font-size: 70px;
+font-family: Arial, Helvetica, sans-serif;}
+.get {margin-left: 1000px;
+font-size: 30px;
+font-family: Arial, Helvetica, sans-serif;}
+
+/*last centered paragraph*/
+.reliable {text-align: center;
+font-size: 70px;
+font-family: Arial, Helvetica, sans-serif;}
+.low {text-align: center;
+font-size: 30px;
+font-family: Arial, Helvetica, sans-serif;}
+.just {text-align: center;}
+
+/*Footer*/
+.footer {position: static;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+height: 600px;
+display: block;}
+
+
+    
+
+.about {padding: 50px 80px;}
+.place {font-size: 40px;}
+.items {color: cornflowerblue;
+font-size: 16px;
+text-align: justify;}
+
+  
+ /*flex and wrap is inspired content from web */
+  .footer-content {display: flex;
+          flex-wrap: wrap;
+          box-sizing: border-box;
+          justify-content: center;
+          padding: 10px 30px;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    overflow: hidden;
+    font-size: 30px;}
+
+    
+  
